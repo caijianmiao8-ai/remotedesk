@@ -1,4 +1,4 @@
-#include "host/SignalingClient.h"
+#include "controller/SignalingClient.h"
 #include <QJsonDocument>
 #include <QJsonObject>
 #include <QJsonValue>
