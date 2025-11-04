@@ -6,7 +6,7 @@
 
 namespace Protocol {
 
-inline constexpr auto kApiBase = "https://ruoshui.fun.vercel.app";
+inline constexpr auto kApiBase = "https://www.ruoshui.fun";
 inline constexpr auto kInputChannelName = "input";
 
 inline QJsonObject makeMouseMovePayload(double x, double y)
